@@ -133,7 +133,7 @@ def calculate_rmse(input_img, final_result):
 
 
 if __name__ == '__main__':
-    probe_name = "Shepp_logan"
+    probe_name = "CT_ScoutView_large"
     probe_ext = "jpg"
 
     stats_dir_path = "stats/" + probe_name
