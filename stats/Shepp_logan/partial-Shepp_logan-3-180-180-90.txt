@@ -1,0 +1,6 @@
+Probe: Shepp_logan
+Scans: 180
+Detectors: 180
+Opening: 90
+RMSE: 55.10642890637216
+Time: 114.19420552253723

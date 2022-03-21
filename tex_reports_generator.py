@@ -1,7 +1,7 @@
 import os
 
-IMG_HEIGHT = "4.5"
-TEX_DIRECTORY = "Assets/Shepp_logan_report"
+IMG_HEIGHT = "5"
+TEX_DIRECTORY = "Assets/CT_ScoutView_large_report"
 
 def generate_tex_part(input_img_path, output_img_path, caption):
 
@@ -59,7 +59,7 @@ def generate_tex(stats_dir_path, reports_dir_path, probe_ext, output_ext):
     report.close()
     
 if __name__ == "__main__":
-    probe_name = "Shepp_logan"
+    probe_name = "CT_ScoutView_large"
     probe_ext = "jpg"
     output_ext = "png"
 

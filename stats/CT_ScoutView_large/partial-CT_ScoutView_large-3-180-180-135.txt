@@ -1,0 +1,6 @@
+Probe: CT_ScoutView_large
+Scans: 180
+Detectors: 180
+Opening: 135
+RMSE: 33.29633674249729
+Time: 146.02149772644043

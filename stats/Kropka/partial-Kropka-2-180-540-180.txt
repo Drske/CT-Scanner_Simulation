@@ -1,0 +1,6 @@
+Probe: Kropka
+Scans: 180
+Detectors: 540
+Opening: 180
+RMSE: 22.590293822790354
+Time: 123.74033832550049

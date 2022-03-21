@@ -1,0 +1,6 @@
+Probe: SADDLE_PE
+Scans: 180
+Detectors: 180
+Opening: 45
+RMSE: 88.71176469678934
+Time: 123.56403255462646

@@ -1,0 +1,6 @@
+Probe: Kwadraty2
+Scans: 180
+Detectors: 630
+Opening: 180
+RMSE: 56.24865293043661
+Time: 167.03255653381348
